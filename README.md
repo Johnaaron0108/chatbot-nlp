@@ -9,5 +9,3 @@ This project is a context-based chatbot built using Python, NLTK, and a deep neu
 - Model and metadata saved for deployment
 
 ## 🚀 Run
-```bash
-python chatbot_train.py
